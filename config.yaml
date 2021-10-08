@@ -16,7 +16,7 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: About
+    - name: About Author
       url: "about/"
       weight: 2
     - name: Projects
