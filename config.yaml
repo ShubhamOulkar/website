@@ -28,7 +28,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Shubham Oulkar](https://github.com/ShubhamOulkar/website.git) 2021 | [Github](https://github.com/ShubhamOulkar) | [Twitter](https://twitter.com/shubhuoulkar) | [LinedIn](https://linkedin.com/in/shubham-oulkar-372797217)"
+  footer: "&copy; [Shubham Oulkar](https://github.com/ShubhamOulkar/website.git) 2021 | [Github](https://github.com/ShubhamOulkar) | [Twitter](https://twitter.com/shubhuoulkar) | [LinkedIn](https://linkedin.com/in/shubham-oulkar-372797217)"
 
 markup:
   goldmark:
