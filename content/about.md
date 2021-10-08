@@ -1,11 +1,13 @@
 ---
-author: Shubham Oulkar
-title: About
+author: About Author
 ---
 
-**XMin** is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the  [**blogdown**](https://github.com/rstudio/blogdown) book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal. In fact, this theme does not contain any JavaScript code at all, although on this example website I did introduce some JavaScript code (still relatively simple anyway). The theme does not contain any images, either, and is pretty much a plain-text theme.
+# Mr. Shubham Oulkar
+### Data Analyst
+#### contact me by [Twitter](https://twitter.com/shubhuoulkar) [LinkedIn](https://linkedin.com/in/shubham-oulkar-372797217)
 
-The theme name "XMin" can be interpreted as "**X**ie's **Min**imal theme" (Xie is my last name) or "e**X**tremely **Min**imal theme".
+
+
 
 # config.toml
 
@@ -16,9 +18,10 @@ For this example site, I defined permalinks for two sections, `post` and `note`,
     post = "/post/:year/:month/:day/:slug/"
     note = "/note/:year/:month/:day/:slug/"
 ```
-
+````
+# R , [**Python**] [**MSSQL**] [**Tableau**] [**MySQL**]
 You can define the menu through `menu.main`, e.g.,
-
+```
 ```
 [[menu.main]]
     name = "Home"
