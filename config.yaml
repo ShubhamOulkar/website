@@ -1,6 +1,6 @@
-baseurl: "/"
+baseurl: "https://shubhamoulkar.netlify.app/"
 languageCode: "en-us"
-title: "A minimal Hugo website"
+title: "Shubham Oulkar"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -19,18 +19,16 @@ menu:
     - name: About
       url: "about/"
       weight: 2
-    - name: Categories
-      url: "categories/"
+    - name: Projects
+      url: "projects/"
       weight: 3
-    - name: Tags
-      url: "tags/"
+    - name: blogs
+      url: "post/"
       weight: 4
-    - name: Subscribe
-      url: "index.xml"
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- 2020 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  footer: "&copy; [Shubham Oulkar](https://github.com/ShubhamOulkar/website.git) 2021 | [Github](https://github.com/ShubhamOulkar) | [Twitter](https://twitter.com/shubhuoulkar) | [LinedIn](https://linkedin.com/in/shubham-oulkar-372797217)"
 
 markup:
   goldmark:
