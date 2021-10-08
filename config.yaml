@@ -2,7 +2,7 @@ baseurl: "https://shubhamoulkar.netlify.app/"
 languageCode: "en-us"
 title: "Shubham Oulkar"
 theme: "hugo-xmin"
-googleAnalytics: ""
+googleAnalytics: "G-833JFLRB3Y"
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 footnotereturnlinkcontents: "↩"
