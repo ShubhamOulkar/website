@@ -8,6 +8,6 @@ title: Home
 ## " Data will talk to you if you're willing to listen. "
 
 
-![](download.jpg)
+![hi](download.jpg)
 
 ### List of [Posts](/post/), or [Projects](/Projects/)
