@@ -6,4 +6,3 @@ author: About Author
 ### Data Analyst
 #### contacts:- [Twitter](https://twitter.com/shubhuoulkar) [LinkedIn](https://linkedin.com/in/shubham-oulkar-372797217)
 
-![](download.jpg)
